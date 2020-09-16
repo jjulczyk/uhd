@@ -16,6 +16,7 @@
 #include <boost/thread/recursive_mutex.hpp>
 #include <boost/thread.hpp>
 #include <boost/units/detail/utility.hpp>
+#include <boost/noncopyable.hpp>
 #include <memory>
 #include <list>
 #include <stdint.h>
